@@ -1,7 +1,8 @@
 ### ✨   Welcome to my profile ✨
-- You are the last one to view my profile
-Visitor Count
-- in this much people 😄
-- 🌱 I’m currently learning Phyton/MySql
+I'm a curious engineering student.
+
+- 🌱 I’m currently (trying to) learn Phyton/MySql
+
+![](https://komarev.com/ghpvc/?username=ozturkoglukagan&color=eaff00)
 
 Give me a follow if you like what you see and wish to see more 😄
