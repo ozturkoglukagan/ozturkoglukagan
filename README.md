@@ -3,7 +3,7 @@ I'm a curious engineering student.
 
 - 🌱 I’m currently (trying to) learn Phyton/MySql
 
-Give me a follow if you liked what you see and wish to see more 😄
+Give me a follow if you liked what you see 👾
 
 
 ![](https://komarev.com/ghpvc/?username=ozturkoglukagan&color=yellow)
