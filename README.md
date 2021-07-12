@@ -1,7 +1,7 @@
 ### ✨   Welcome to my profile ✨
 I'm a curious engineering student.
 
-- 🌱 I’m currently (trying to) learn Phyton/MySql
+- 🌱 I’m currently learning Html/CSS/NodeJs
 
 Give me a follow if you liked what you see 👾
 
