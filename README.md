@@ -1,7 +1,7 @@
-### ✨   Welcome to my profile ✨
+### Welcome to my profile 
 I'm a curious engineering student.
 
-- 🌱 I’m currently learning Html/CSS/NodeJs
+- 🌱 I’m currently learning Flutter
 
 Give me a follow if you liked what you see 👾
 
