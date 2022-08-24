@@ -1,9 +1,9 @@
 ### Welcome to my profile 
-I'm a curious engineering student.
+curious engineering student
 
-- 🌱 I’m currently learning HTML, NodeJS, CSS and SCSS.
+- 🌱 I’m currently learning GO and NodeJS.
 
-Give me a follow if you liked what you see 👾
+give me a follow if you liked what you see 👾
 
 
 ![](https://komarev.com/ghpvc/?username=ozturkoglukagan&color=yellow)
